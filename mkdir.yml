@@ -5,4 +5,4 @@
 
   tasks:
     - name: Create ansible directory
-      command: mkdir /home/debian/ansible
+      command: mkdir /tmp/test
