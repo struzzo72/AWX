@@ -1,6 +1,6 @@
 ---
 - name: Create Ansible folder
-  hosts: localhost
+  hosts: Master
   become: true
 
   tasks:
