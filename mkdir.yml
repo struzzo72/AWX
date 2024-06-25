@@ -6,4 +6,5 @@
   tasks:
     - name: Create ansible directory
       command: mkdir /tmp/test
+      command: sleep 5
       command: chown debian:debian /tmp/test
