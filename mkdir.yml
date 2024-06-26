@@ -5,4 +5,4 @@
 
   tasks:
     - name: Create ansible directory
-      command: mkdir /tmp/test
+      command: mkdir /tmp/test/user01
